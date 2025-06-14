@@ -3,7 +3,7 @@ export const projectsData = [
     title: 'Shopping Guide',
     description:
       'Una herramienta interactiva que permite visualizar y seleccionar tiendas dentro de un centro comercial utilizando un plano SVG',
-    tags: ['Next.js', 'Tailwindcss', 'Frame Motion', 'React-Zoom'],
+    tags: ['Next.js', 'Tailwindcss', 'Framer Motion', 'React-Zoom'],
     image: '/cover-shopping-guide.webp',
     link: 'https://shopping-guide-pearl.vercel.app/',
   },
@@ -35,7 +35,7 @@ export const projectsData = [
     title: 'Festidisg',
     description:
       'Aplicación web diseñada para crear plantillas personalizadas de saludos o recordatorios con motivo de festividades. Permite generar, personalizar y descargar imágenes de manera sencilla.',
-    tags: ['Next.js', 'Tailwindcss', 'Gsap', 'Multilenguaje'],
+    tags: ['Next.js', 'Tailwindcss', 'Gsap'],
     image: '/cover-festidisg.webp',
     link: 'https://festidisg.vercel.app/',
   },
