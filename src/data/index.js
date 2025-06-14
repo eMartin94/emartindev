@@ -8,7 +8,7 @@ export const projectsData = [
     link: 'https://shopping-guide-pearl.vercel.app/',
   },
   {
-    title: 'Carlamelany',
+    title: 'Minimalist Architecture Portfolio',
     description:
       'Portafolio de arquitectura con diseño limpio y minimalista. Disponible en inglés y español, incluye animaciones suaves y secciones informativas sobre proyectos destacados.',
     tags: ['Next.js', 'Tailwindcss', 'Gsap', 'Multilenguaje'],
