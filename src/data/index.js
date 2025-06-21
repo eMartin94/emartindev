@@ -1,5 +1,13 @@
 export const projectsData = [
   {
+    title: 'eMplayer | Playlist',
+    description:
+      'Reproductor musical web con una interfaz dinámica e interactiva. Explora y disfruta playlists personalizadas con animaciones fluidas y un diseño adaptable.',
+    tags: ['Next.js', 'Tailwindcss', 'Framer Motion', 'Vibrantjs'],
+    image: '/cover-emplayer.webp',
+    link: 'https://emplayer-three.vercel.app/',
+  },
+  {
     title: 'Shopping Guide',
     description:
       'Una herramienta interactiva que permite visualizar y seleccionar tiendas dentro de un centro comercial utilizando un plano SVG',
